@@ -24,5 +24,7 @@
 * Benjamín Ocaranza
 * Carlos Rojas Valdés
 * Nicolás Quintana
+* Carlos Moreno
+* Simón Rojas
 * Carlos Moreno 
 * Diego Solis R.
