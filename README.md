@@ -18,6 +18,8 @@
 * Geronimo Benavidess
 * Vicente Morales
 * Yeral Mendez (cejas de azotador)
+
+* Diego Solis :)
 * Javier Molina
 * Matias parada
 * Benjamín Ocaranza
