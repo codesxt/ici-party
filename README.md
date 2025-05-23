@@ -18,10 +18,11 @@
 * Geronimo Benavidess
 * Vicente Morales
 * Yeral Mendez (cejas de azotador)
-* Javier Molina
+* Javier Molina (culon)
 * Vicente Rojas 
 * Matias parada
 * Benjamín Ocaranza
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Sergio Verdejo
