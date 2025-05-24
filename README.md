@@ -19,6 +19,7 @@
 * Vicente Morales
 * Yeral Mendez (cejas de azotador)
 * Javier Molina
+* Damián Palma (remedio)
 * Nicole Retamal
 * Vicente Rojas 
 * Matias parada
