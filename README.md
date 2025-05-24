@@ -30,6 +30,7 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Mikaela Valdés
 * Simón Rojas
 * Carlos Moreno 
 * Diego Solis R.
