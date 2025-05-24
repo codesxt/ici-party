@@ -30,6 +30,7 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Alonso Ubilla (Inbydev)
 * Mikaela Valdés
 * Simón Rojas
 * Carlos Moreno 
