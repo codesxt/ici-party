@@ -31,6 +31,7 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Bastián Salvo Rojas
 * Sergio Verdejo
 * Alonso Ubilla (Inbydev)
 * Mikaela Valdés
