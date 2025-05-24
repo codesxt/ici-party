@@ -31,6 +31,7 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Esteban Salgado
 * Diego Sáez Muñoz
 * Bastián Salvo Rojas
 * Sergio Verdejo
