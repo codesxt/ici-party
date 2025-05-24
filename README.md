@@ -19,10 +19,18 @@
 * Vicente Morales
 * Yeral Mendez (cejas de azotador)
 * Javier Molina
+* Angel Pacheco
+* Alonso Retamal (Alonsini)
+* Martín Rojas
+* Damián Palma (remedio)
+* Nicole Retamal
+* Vicente Rojas 
 * Matias parada
 * Benjamín Ocaranza
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
 * Mikaela Valdés
-* 
+* Simón Rojas
+* Carlos Moreno 
+* Diego Solis R.
