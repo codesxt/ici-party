@@ -18,6 +18,7 @@
 * Geronimo Benavidess
 * Vicente Morales
 * Yeral Mendez (cejas de azotador)
+* Javier Molina (culon)
 * Javier Molina
 * Angel Pacheco
 * Alonso Retamal (Alonsini)
@@ -30,6 +31,7 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Sergio Verdejo
 * Alonso Ubilla (Inbydev)
 * Mikaela Valdés
 * Simón Rojas
